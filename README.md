@@ -1,2 +1,1 @@
-# ClashX
-ClashX 下载分享中文官网资源
+# ClashX 下载分享中文官网资源
